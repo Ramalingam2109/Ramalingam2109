@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap" />
 
 
-<img align="right" height="150" src="https://ik.imagekit.io/uqbequiw9/enhanced_avatar.jpg?updatedAt=1748109954225" style="border-radius: 50%" />
+<img align="right" height="150" src="https://ik.imagekit.io/uqbequiw9/enhanced_avatar-removebg-preview.png?updatedAt=1748111838997" style="border-radius: 50%" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django" />

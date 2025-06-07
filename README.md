@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/-Open%20to%20Work%20Opportunities-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work" />
 </div>
 
-### 🎨 UI/UX Developer & Full-Stack Engineer  
-**Building modern, responsive interfaces** with pixel-perfect designs and scalable backends.  
+###  Full-Stack Devaloper  
+**Building modern, responsive interfaces** with pixel-perfect designs and  backends.  
 
 ---
 

@@ -71,13 +71,13 @@
   <a href="https://www.linkedin.com/in/ram-lingam/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="linkedin" />
   </a>
-  <a href="mailto:ramalingam.devalope@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="40" width="40" alt="email" />
+  <a href="mailto:ramalingam.devaloper@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="40" alt="email" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="github" />
-  </a>
+  
 </div>
+
+
 
 ## 🎯 Fun Fact  
 ⚡ I can solve a Rubik's Cube in under 2 minutes!  
